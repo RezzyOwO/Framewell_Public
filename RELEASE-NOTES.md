@@ -22,4 +22,6 @@
 - Automatic update installation is on by default and waits for active work to finish.
 - Collapsible, formatted release notes and a pulsing version-status indicator.
 
-Windows x64. The installer is currently distributed privately.
+Windows x64. Download [Framewell-Installer-Win.exe](https://github.com/RezzyOwO/Framewell_Public/releases/download/v0.9.0/Framewell-Installer-Win.exe) to install Framewell.
+
+The versioned `Framewell-0.9.0-Setup.exe` download is an identical copy used by the automatic updater.

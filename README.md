@@ -12,7 +12,7 @@ A personal photo editor and GIF studio for RezzyOwO and invited friends.
 
 ## Getting started
 
-Run the supplied **Framewell-0.9.0-Setup.exe** on Windows x64. The installer includes Framewell and its media tools; no development tools are required. A short welcome flow helps you get started.
+Download [**Framewell-Installer-Win.exe**](https://github.com/RezzyOwO/Framewell_Public/releases/latest/download/Framewell-Installer-Win.exe) and run it on Windows x64. The installer includes Framewell and its media tools; no development tools are required. A short welcome flow helps you get started.
 
 Settings, presets and recovery files default to **%APPDATA%\Framewell\Data**. Folder locations can be changed in Settings. Original photos and videos stay untouched.
 
@@ -20,6 +20,6 @@ Automatic update checks and installation are enabled by default. Framewell uses 
 
 ## Availability
 
-Builds are currently shared directly with invited friends. The installer is kept local for now; this repository contains product information, release notes and distribution notices. Application source is maintained in a separate private repository.
+The Windows installer is available from [Releases](https://github.com/RezzyOwO/Framewell_Public/releases/latest). This repository contains downloads, product information, release notes and distribution notices. Application source is maintained in a separate private repository.
 
 Framewell is not open source. See [private-use terms](LICENSE).
