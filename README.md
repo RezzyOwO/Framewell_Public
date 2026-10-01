@@ -5,8 +5,8 @@ A personal photo editor and GIF studio for RezzyOwO and invited friends.
 ## Make every frame yours
 
 - **Photos** — light and color adjustments, crop, comparison, text and image watermarks, and batch export.
-- **GIF Studio** — video trimming, snapping, smooth selected-range playback, top and bottom captions, and Discord presets.
-- **VRChat Gallery** — fast cached previews and selections across monthly folders.
+- **GIF Studio** — video trimming, snapping, smooth selected-range playback, adjustable caption bars, Discord presets and your own saved recipes.
+- **VRChat Gallery** — automatic folder detection across drives, fast cached previews and selections across monthly folders.
 - **Your workspace** — saved projects, edit history, optional session recovery, and a 30-second undo when starting fresh.
 - **Export** — quality previews, upload-size targets, metadata controls, batch names and folders.
 
