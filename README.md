@@ -18,6 +18,8 @@ Settings, presets and recovery files default to **%APPDATA%\Framewell\Data**. Fo
 
 Automatic update checks and installation are enabled by default. Framewell uses this repository's stable releases, verifies downloads, saves your workspace and restarts after active media jobs finish. Both settings can be switched off.
 
+**Upgrading from 0.9.1 or 0.10.0?** Run the latest installer manually once to repair the automatic update launcher. Your settings and projects are preserved.
+
 ## Availability
 
 The Windows installer is available from [Releases](https://github.com/RezzyOwO/Framewell_Public/releases/latest). This repository contains downloads, product information, release notes and distribution notices. Application source is maintained in a separate private repository.
