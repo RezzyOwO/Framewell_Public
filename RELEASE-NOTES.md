@@ -1,27 +1,13 @@
-# Framewell 0.9.0
+# Framewell 0.9.1
 
-## A smoother workspace
+## Installer fix
 
-- A simpler two-step welcome flow with refreshed Framewell branding.
-- Progressive gallery thumbnails, a persistent preview cache, cross-folder selection and subtle folder transitions.
-- Recover a cleared workspace from the toolbar for 30 seconds.
-- Settings, presets, fonts and project recovery live in the Framewell AppData folder by default.
+- Fixed the installation folder becoming `\Framewell` when the chosen folder does not exist yet.
+- New folders and paths containing spaces now keep their full location.
+- Invalid locations saved by failed installations fall back to `%LOCALAPPDATA%\Programs\Framewell`.
 
-## GIF Studio
+If setup 0.9.0 showed **Error opening file for writing**, close that installer and use this corrected version. Administrator access is not required for the default installation folder.
 
-- Playback stays inside the selected range and follows the video's native playback clock.
-- Move the entire trim selection while preserving its duration; snap to frames and nearby boundaries.
-- Adjustable top and bottom captions with uppercase lettering and black outlines by default.
-- Custom font, size, color, outline, alignment, spacing, position and shadow controls.
-- Bundled MADE TOMMY, Bison Bold and Milker fonts also work with photo text watermarks.
-- Import progress and seek-friendly video previews.
+Windows x64. Download [Framewell-Installer-Win.exe](https://github.com/RezzyOwO/Framewell_Public/releases/download/v0.9.1/Framewell-Installer-Win.exe) to install Framewell.
 
-## Installation & updates
-
-- A Windows installer with Framewell's banner and logo.
-- Automatic update installation is on by default and waits for active work to finish.
-- Collapsible, formatted release notes and a pulsing version-status indicator.
-
-Windows x64. Download [Framewell-Installer-Win.exe](https://github.com/RezzyOwO/Framewell_Public/releases/download/v0.9.0/Framewell-Installer-Win.exe) to install Framewell.
-
-The versioned `Framewell-0.9.0-Setup.exe` download is an identical copy used by the automatic updater.
+The versioned `Framewell-0.9.1-Setup.exe` download is an identical copy used by the automatic updater.
