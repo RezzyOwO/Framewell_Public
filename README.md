@@ -18,11 +18,11 @@ Settings, presets and recovery files default to **%APPDATA%\Framewell\Data**. Fo
 
 Automatic update checks and installation are enabled by default. Framewell uses this repository's stable releases, verifies downloads, waits until your project is saved and active media jobs finish, then restarts. Both settings can be switched off.
 
-**Upgrading from 0.9.1 or 0.10.0?** Run the latest installer manually once to repair the automatic update launcher. Your settings and projects are preserved.
+**Updater stuck installing or failing to reopen?** Close all Framewell copies and run the latest installer manually once. Version 0.14.1 repairs malformed installation records, prevents overlapping launches, pauses failed automatic retries, and verifies the updated window opens. Your settings and projects are preserved.
 
 Photo exports default to **Pictures/Framewell Pictures/YYYY-MM**, and GIF exports to **Videos/Framewell Videos/YYYY-MM**. Custom destinations stay in place. GIF encoding starts when you open Export; editing keeps a lightweight live preview.
 
-A fixed Patreon card opens the creator’s public profile, membership plans and available member counts, with offline caching.
+A fixed Patreon card opens a redesigned creator profile with a large banner, membership cards, live benefits, and Discord, X and website links. Images, plans and available member counts refresh when opened and every five minutes while active, with offline caching.
 
 ## Availability
 
